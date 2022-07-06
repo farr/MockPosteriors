@@ -1,0 +1,10 @@
+name: MockPosteriors
+channels:
+  - defaults
+dependencies:
+  - jax
+  - numpyro
+  - python=3
+  - arviz
+  - ipykernel
+prefix: /Users/wfarr/miniconda3/envs/MockPosteriors
