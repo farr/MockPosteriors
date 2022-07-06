@@ -7,4 +7,5 @@ dependencies:
   - python=3
   - arviz
   - ipykernel
+  - seaborn
 prefix: /Users/wfarr/miniconda3/envs/MockPosteriors
